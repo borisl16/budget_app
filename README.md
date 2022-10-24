@@ -1,1 +1,2 @@
-# budget_app
+# Budget App 
+## MVC Project
